@@ -1,2 +1,3 @@
-# Develhope-Javascript-30
-Ejercicio 30 de Javascript del curso Develhope (JSON Methods 2)
+# JSON methods
+
+Create the `fromJson` method that takes in a json as parameter and returns an object of type `Person`.
